@@ -1,2 +1,2 @@
 # Bachelor
-Dieses Projekt beinhaltet zwei Anwendungen mit identischen Funktionen, die jedoch verschiedene Testframeworks verwenden
+Dieses Projekt umfasst zwei Anwendungen mit ähnlichen Funktionen, die jedoch jeweils unterschiedliche Testframeworks verwenden. Während beide Anwendungen ähnliche Aufgaben ausführen, nutzen sie unterschiedliche Testumgebungen und -bibliotheken zur Überprüfung ihrer Funktionalität. Selbst wenn die Implementierung der Funktionen in beiden Anwendungen identisch ist, kann dies zu unterschiedlichen Herangehensweisen und Ergebnissen führen. Das Ziel dieses Projekts ist es sicherzustellen, dass die Funktionalität zwischen den beiden Anwendungen konsistent ist und unabhängig vom verwendeten Testframework zu den gleichen Ergebnissen führt.
