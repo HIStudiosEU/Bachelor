@@ -4,7 +4,7 @@ import Calculator from './components/Calculator';
 function App() {
   return (
     <>
-    <h1 style={{textAlign: 'center', marginTop: '25px', marginBottom: '25px'}}>MyUsefulApp</h1>
+    <h1 style={{textAlign: 'center', marginTop: '25px', marginBottom: '25px'}}>MyUsefulJestApp</h1>
     <Calculator />
     <TaskList />
     </>
