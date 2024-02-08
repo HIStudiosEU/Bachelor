@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TaskList rendert korrekt mit leeren Aufgaben 1`] = `
+<div
+  className="taskListContainer"
+>
+  <h2>
+    ToDo-List
+  </h2>
+  <input
+    className="taskInput"
+    onChange={[Function]}
+    placeholder="Neue Aufgabe hinzufügen"
+    type="text"
+    value=""
+  />
+  <button
+    className="addTaskButton"
+    onClick={[Function]}
+  >
+    Hinzufügen
+  </button>
+  <ul
+    className="taskList"
+  />
+</div>
+`;
